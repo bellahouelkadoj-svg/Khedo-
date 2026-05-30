@@ -13,7 +13,7 @@ Simulateur de façade en ligne gratuit - Testez couleurs et matériaux sur votre
 - 🖌️ **Mode peinture** - Cliquez sur un mur pour changer la couleur
 - ↩️ **Annuler** - Revenez en arrière
 - 📷 **Export PNG** - Téléchargez votre design
-- 💰 **Devis estimatif** - Prix automatique en DH
+- 💰 **Devis estimatif** - Prix automatique en DA
 
 ## 🚀 Comment utiliser
 
@@ -22,7 +22,7 @@ Simulateur de façade en ligne gratuit - Testez couleurs et matériaux sur votre
 3. Sélectionnez une couleur ou matériau
 4. Exportez votre design
 
-## 💰 Prix des matériaux (Maroc)
+## 💰 Prix des matériaux (algerie)
 
 | Matériau | Prix/m² |
 |----------|---------|
@@ -44,6 +44,7 @@ Simulateur de façade en ligne gratuit - Testez couleurs et matériaux sur votre
 
 Pour questions ou suggestions.
 
----
+bellahouelkadoj@gmail.com
 
-**Créé avec ❤️ au Maroc**
+**Créé avec ❤️ au algerie**
+ARCHI BY KHEDO
